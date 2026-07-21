@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Musashiii
 
 *Existing till someone tries to socialize with me.*
@@ -13,17 +12,17 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 
 ## 🎯 What I Do
 
-- **Backend Development**: Building scalable APIs and services with Java, Spring Boot, and Node.js
-- **Full-Stack Projects**: From database design to UI, I love end-to-end ownership
-- **Problem Solving**: Active on LeetCode, strong in DSA and system design
-- **Performance Optimization**: Experience with async pipelines, caching strategies, and high-throughput systems
+* **Backend Development**: Building scalable APIs and services with Java, Spring Boot, and Node.js
+* **Full-Stack Projects**: From database design to UI, I love end-to-end ownership
+* **Problem Solving**: Active on LeetCode, strong in DSA and system design
+* **Performance Optimization**: Experience with async pipelines, caching strategies, and high-throughput systems
 
 ## 💻 Tech Stack
 
-**Languages**: Java, Python, JavaScript  
-**Backend**: Spring Boot, Node.js/Express, REST APIs  
-**Frontend**: Next.js, Flutter, JavaFX, React Native  
-**Databases**: MySQL  
+**Languages**: Java, Python, JavaScript
+**Backend**: Spring Boot, Node.js/Express, REST APIs
+**Frontend**: Next.js, Flutter, JavaFX, React Native
+**Databases**: MySQL
 **Tools**: Git, Docker, Linux (Arch + Hyprland)
 
 ---
@@ -80,4 +79,3 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 <p align="center">
   <i>"Code. Optimize. Repeat."</i>
 </p>
-```
