@@ -55,17 +55,17 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Musashiii&label=Profile+Views&color=7B68EE&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Musashiii03&label=Profile+Views&color=7B68EE&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Repositories-24-7B68EE?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Musashiii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musashiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Musashiii03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musashiii03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Musashiii&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Musashiii03&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
