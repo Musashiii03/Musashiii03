@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Musashiii
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=7B68EE&vCenter=true&width=700&lines=Existing+till+someone+tries+to+socialize+with+me.;Backend+Developer;Building+Scalable+Systems;Always+Learning%2C+Always+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=FFA116&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+Systems;Always+Learning%2C+Always+Shipping." alt="Typing SVG" />
 </p>
 
 <p align="center">
