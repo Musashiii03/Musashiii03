@@ -33,25 +33,6 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 
 ---
 
-## 🔗 Connect
-
-<p align="left">
-  <a href="www.linkedin.com/in/smarth-gupta03">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  <a href="https://leetcode.com/u/SmarthGupta/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
-  </a>
-  <a href="https://discord.gg/Gx9ME5tfHC">
-    <img src="https://skillicons.dev/icons?i=discord" height="42"/>
-  </a>
-  <a href="https://www.instagram.com/musashiii03/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Code. Optimize. Repeat."</i>
 </p>
