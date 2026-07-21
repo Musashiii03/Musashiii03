@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Musashiii
 
-*Existing till someone tries to socialize with me.*
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=7B68EE&vCenter=true&width=700&lines=Existing+till+someone+tries+to+socialize+with+me.;Backend+Developer;Building+Scalable+Systems;Always+Learning%2C+Always+Shipping." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/AsKTGlZJwlcAAAAC/sad-look.gif" width="350" alt="banner"/>
@@ -19,11 +21,11 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 
 ## 💻 Tech Stack
 
-**Languages**: Java, Python, JavaScript
-**Backend**: Spring Boot, Node.js/Express, REST APIs
-**Frontend**: Next.js, Flutter, JavaFX, React Native
-**Databases**: MySQL
-**Tools**: Git, Docker, Linux (Arch + Hyprland)
+* **Languages**: Java, Python, JavaScript
+* **Backend**: Spring Boot, Node.js/Express, REST APIs
+* **Frontend**: Next.js, Flutter, JavaFX, React Native
+* **Databases**: MySQL
+* **Tools**: Git, Docker, Linux (Arch + Hyprland)
 
 ---
 
@@ -34,23 +36,18 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 ## 🔗 Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/smarth-gupta03">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/SmarthGupta/">
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/Gx9ME5tfHC">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/musashiii03/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  <a href="YOUR_LEETCODE">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
+  </a>
+  <a href="YOUR_DISCORD">
+    <img src="https://skillicons.dev/icons?i=discord" height="42"/>
+  </a>
+  <a href="YOUR_INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+  </a>
 </p>
 
 ---
@@ -58,20 +55,17 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Musashiii&label=Profile+Views&color=7B68EE&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Repositories-24-7B68EE?style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Musashiii&label=Profile+Views&color=7B68EE&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repositories-24-7B68EE?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Musashiii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musashiii&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Musashiii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musashiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Musashiii&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img src="https://streak-stats.demolab.com?user=Musashiii&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
