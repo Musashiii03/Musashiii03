@@ -21,7 +21,7 @@ Hi! I'm **Smarth Gupta**, a backend-focused developer and Computer Science stude
 
 ## 💻 Tech Stack
 
-* **Languages**: Java, Python, JavaScript
+* **Languages**: Java, Python, JavaScript, Dart, React Native
 * **Backend**: Spring Boot, Node.js/Express, REST APIs
 * **Frontend**: Next.js, Flutter, JavaFX, React Native
 * **Databases**: MySQL
